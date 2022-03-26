@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    }
+
+.cmp {
+
+    margin-bottom: 1em;
+
+    }
+
+.btm {
+
+    font-size: 13px;
+    
+    background-color: rgb(255, 208, 0);
+
+    border: 0;
+    margin-bottom: 1em;
+    padding: 0.2em 0.6em;
+    align-items: center;
+
+    }    
+
+.parabens {
+
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 25%;
+    margin-bottom: auto;
+    text-shadow:black 1px 1px 2px;
+
+    }
+
+
+#ttl {
+
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow:black 1px 1px 2px;
+    
+    color: rgb(0, 0, 0);    
+    
+    border: 1;
+    margin-top: 5%;
+
+    }
+
+#subttl {
+
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow:black 1px 1px 2px;
+    text-align: center;
+
+    }
+
+fieldset {
+
+    background-color: rgba(0, 0, 0, 85%);
+
+    text-align:center;
+    color: white;
+    font-size: 13px;
+
+    border: 1;
+    border-color: rgba(0, 0, 0, 85%);
+    border-radius: 2em;
+    border-style: solid;
+
+    padding: 3%;
+    width: 30%;
+
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;    
+
+    }
+
+body {
+
+    background-image: url(wallpaper-hd.jpg);
+    font-family: sans-serif;
+    font-size: 1em;
+
+    }
+
+input {
+
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+
+    }
